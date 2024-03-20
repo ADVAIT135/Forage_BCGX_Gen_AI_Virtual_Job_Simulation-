@@ -1,0 +1,15 @@
+What is the total revenue?
+What is the Net Income?
+What is the sum of total assets?
+What is the sum of total liabilities?
+What is cash flow from operating activities?
+What is the revenue growth(%) ?
+What is the net income growth(%) ?
+What is the assets growth(%) ?
+What is the liabilities growth(%) ?
+What is the cash flow from operations growth(%) ?
+What is the year by year average revenue growth rate(%)?
+What is the year by year average net income growth rate(%)?
+What is the year by year average assets growth rate(%)?
+What is the year by year average liabilities growth rate(%)?
+What is the year by year average cash flow from operations growth rate(%)?
