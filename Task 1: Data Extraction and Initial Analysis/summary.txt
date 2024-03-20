@@ -1,0 +1,3 @@
+This task involves Manual extraction of Financial Statements of Microsoft, Apple and Tesla for the fiscal year 2021, 2022 and 2023 respectively.
+The financial statements have been extracted from SEC'S EDGARS Database (Link is mentioned below) :-
+https://www.sec.gov/edgar/searchedgar/cik
